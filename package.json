@@ -25,7 +25,9 @@
     "node": ">= 0.10.0"
   },
   "homepage": "https://github.com/uber-common/paranoid-request",
-  "licenses": ["MIT"],
+  "licenses": [
+    "MIT"
+  ],
   "main": "dist/index.js",
   "dependencies": {
     "deasync": "^0.1.4",
